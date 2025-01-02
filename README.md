@@ -1,6 +1,6 @@
 畅乐云听—阿里云盘音乐播放器
 
-畅乐云听是一款播放阿里云盘MP3音乐文件的安卓播放器，可读取文件内嵌标签信息，点击[Releases](https://github.com/socue/ChangYueCloudMusicPublic/releases)下载最新安卓版本，
+畅乐云听是一款播放阿里云盘MP3音乐文件的安卓播放器，可读取文件内嵌标签信息，点击[Releases](https://github.com/socue/ChangYueCloudMusicPublic/releases)下载最新安卓版本
 
 ### 使用方法
 
